@@ -4,7 +4,7 @@
 |--------|-------|-------|
 | **Total Stars** | ![](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/criszlelaureta&query=stars&label=Stars&color=blue) | 📈 |
 | **Total Commits** | ![](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/criszlelaureta&query=commits&label=Commits&color=green) | 📈 |
-| **Repositories** | ![](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/&query=repos&labelcriszlelaureta=Repos&color=orange) | 📈 |
+| **Repositories** | ![](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/criszlelaureta&query=repos&label=Repos&color=orange) | 📈 |
 
 ---
 
