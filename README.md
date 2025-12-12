@@ -1,19 +1,19 @@
-## 📊 My GitHub Metrics Summary
+## ✨ GitHub Overview (Glass Theme)
 
-| Metric | Value | Trend |
-|--------|-------|-------|
-| **Total Stars** | ![](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/criszlelaureta&query=stars&label=Stars&color=blue) | 📈 |
-| **Total Commits** | ![](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/criszlelaureta&query=commits&label=Commits&color=green) | 📈 |
-| **Repositories** | ![](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/criszlelaureta&query=repos&label=Repos&color=orange) | 📈 |
+<div align="center">
+
+### 🌟 GitHub Stats
+<img src="https://streak-stats.demolab.com?user=criszlelaureta&theme=transparent&hide_border=true&stroke=8A8A8A" width="85%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=criszlelaureta&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=criszlelaureta&layout=compact&theme=transparent&hide_border=true" width="40%">
 
 ---
 
-## 🌟 Recent Activity
-<!-- GitHub Activity Graph -->
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=criszlelaureta&theme=github-compact&hide_border=true&area=true&custom_title=Criszle's%20Coding%20Activity" width="90%">
-</div>
+### 📊 Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=criszlelaureta&theme=github-light&hide_border=true&radius=8&area=true" width="90%">
 
+</div>
 
 # Social Media Accounts
 <a href="https://www.facebook.com/share/1AXcWeVJL6/" target="blank" ><img src="https://i.pinimg.com/736x/04/7d/60/047d603f517f98cd681da68bbd87ee85.jpg?raw=true" height="50" widht="50"></a>
