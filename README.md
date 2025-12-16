@@ -1,7 +1,11 @@
-## 📊 GitHub Stats (Green Theme)
+## 📊 GitHub Stats (Animated)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=criszlelaureta&show_icons=true&title_color=5fae8b&icon_color=7ecfa3&text_color=3f5f52&bg_color=f1fbf6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=criszlelaureta&theme=default&ring=7ecfa3&fire=9be3b1&currStreakLabel=5fae8b" />
 </p>
 
 <p align="center">
@@ -14,14 +18,14 @@
 
 <p align="left">
   <a href="https://github.com/criszlelaureta">
-    <img src="https://img.shields.io/badge/GitHub-7ecfa3?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-7ecfa3?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  🍃 <i>Learning, building, and growing in tech</i> 🍃
+  🍀 <i>Learning, building, and growing in tech</i> 🍀
 </p>
 
 
