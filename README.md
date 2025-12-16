@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=23,24,25&text=Hi,%20I%20Am%20Criszle%20T.%20Laureta%20🌿&fontSize=45&fontColor=5fae8b&animation=twinkling&fontAlignY=35&desc=Where%20Code%20Grows%20and%20Ideas%20Bloom&descSize=16&descAlignY=55&descColor=7ecfa3"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=23,24,25&text=Hi,%20I%20Am%20Criszle%20T.%20Laureta%20🌿&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Where%20Code%20Grows%20and%20Ideas%20Bloom&descSize=16&descAlignY=55&descColor=7ecfa3"/>
 
 <!-- Typing Effect -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=24&duration=3000&pause=1000&color=5FAE8B&center=true&vCenter=true&width=600&lines=🌱+Growing+through+code;🌸+Building+digital+gardens;🍃+Learning+%26+creating+daily;✨+Making+tech+bloom)](https://git.io/typing-svg)
